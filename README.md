@@ -6,4 +6,4 @@ The purpose of our analysis is to visualize the economic shock of Covid-19 and u
 * Risk Index: Indication of how "much" the consumption of one industry has changed in the *expansion* period
 * Resilience Index: Indication of how "fast" the consumption of one industry has changed in the *stable* period
 
-Finally, with those two indices, we create a matrix that categorizes four types of industry forecasts.
+Lastly, with these two indices, we produce **Risk-Resilience matrix** that categorizes industry prospects into four types: *Silverlining, Immune, Resilient, and Vulnerable*.
